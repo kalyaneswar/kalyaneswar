@@ -47,9 +47,10 @@ Automating AWS tasks (EC2 shutdown, cost optimization) using Python & Boto3.
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kalyaneswar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=kalyaneswar&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyaneswar&theme=dark&hide_border=false&layout=compact)  
+![Kalyaneswar's GitHub Stats](https://github-readme-stats-holistics-dev.vercel.app/api?username=kalyaneswar&theme=dark&show_icons=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalyaneswar&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats-holistics-dev.vercel.app/api/top-langs/?username=kalyaneswar&theme=dark&hide_border=false&layout=compact)  
+
 
 ---
 
