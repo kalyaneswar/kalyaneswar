@@ -43,11 +43,6 @@ Automating AWS tasks (EC2 shutdown, cost optimization) using Python & Boto3.
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  
 
----
-
-## 📜 Certifications:
-🎖 AWS Certified Solutions Architect – Associate *(In Progress / Completed?)*  
-🎖 Certified Kubernetes Administrator (CKA) *(In Progress / Completed?)*  
 
 ---
 
@@ -61,6 +56,4 @@ Automating AWS tasks (EC2 shutdown, cost optimization) using Python & Boto3.
 [![](https://visitcount.itsvg.in/api?id=kalyaneswar&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 ---
-  
-📝 **Pro Tip:** Keep updating your GitHub by adding new projects and automation scripts! 🚀  
 
