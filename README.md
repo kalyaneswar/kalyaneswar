@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Kalyaneswar Reddy!  
 
-🚀 DevOps Engineer | Linux | AWS |Jenkins CI/CD | Automation | Terraform | Ansible |Docker | Kubernetes | EKS | Git | 
+🚀 DevOps Engineer | Linux | AWS | Jenkins CI/CD | Automation | Terraform | Ansible | Docker | Kubernetes | EKS | Git | 
 
 ### 🔧 About Me:
 - 💼 Experienced in **AWS Cloud, Infrastructure as Code (Terraform), Kubernetes, and CI/CD pipelines**.  
