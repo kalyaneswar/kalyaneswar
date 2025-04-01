@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Kalyaneswar Reddy!  
 
-🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Automation  
+🚀 DevOps Engineer | Linux | AWS |Jenkins CI/CD | Automation | Terraform | Ansible |Docker | Kubernetes | EKS | Git | 
 
 ### 🔧 About Me:
 - 💼 Experienced in **AWS Cloud, Infrastructure as Code (Terraform), Kubernetes, and CI/CD pipelines**.  
-- 🔭 Currently **exploring ArgoCD & Istio Service Mesh**.  
+- 🔭 Currently **exploring ArgoCD**.  
 - 🏗 Passionate about **automating deployments and improving DevOps workflows**.  
 - 📚 Learning **Python for AWS Automation**.  
 - ✍️ Sharing knowledge on **AWS, Terraform, Kubernetes, and DevOps best practices**.  
