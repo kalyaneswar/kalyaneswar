@@ -21,8 +21,8 @@
 ### 🔹 [Terraform AWS Infrastructure](https://github.com/kalyaneswar/expense-infra-dev)
 Automated provisioning of AWS VPC, EC2, S3, and RDS using Terraform.
 
-### 🔹 [CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/kalyaneswar/ci-cd-pipeline)
-Jenkins pipeline with GitHub Actions for automated deployment on Kubernetes.
+### 🔹 [Docker Project](https://github.com/kalyaneswar/expense-docker)
+Creation of Docker files and build the images with following best practices.
 
 ### 🔹 [Kubernetes Deployments & Helm Charts](https://github.com/kalyaneswar/terraform-aws-eks)
 K8s deployment YAMLs, Helm charts, and HPA setup.
