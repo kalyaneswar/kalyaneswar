@@ -27,8 +27,8 @@ Creation of Docker files and build the images with following best practices.
 ### 🔹 [Kubernetes Deployments & Helm Charts](https://github.com/kalyaneswar/terraform-aws-eks)
 K8s deployment YAMLs, Helm charts, and HPA setup.
 
-### 🔹 [AWS Lambda Automation with Python](https://github.com/kalyaneswar/aws-lambda-automation)
-Automating AWS tasks (EC2 shutdown, cost optimization) using Python & Boto3.
+### 🔹 [Shell Scripting Project](https://github.com/kalyaneswar/shell-script-Expense)
+Automating creating and building application with shell scripting.
 
 ---
 
