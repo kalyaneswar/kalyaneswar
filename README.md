@@ -24,7 +24,7 @@ Automated provisioning of AWS VPC, EC2, S3, and RDS using Terraform.
 ### 🔹 [CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/kalyaneswar/ci-cd-pipeline)
 Jenkins pipeline with GitHub Actions for automated deployment on Kubernetes.
 
-### 🔹 [Kubernetes Deployments & Helm Charts](https://github.com/kalyaneswar/k8s-deployments)
+### 🔹 [Kubernetes Deployments & Helm Charts](https://github.com/kalyaneswar/terraform-aws-eks)
 K8s deployment YAMLs, Helm charts, and HPA setup.
 
 ### 🔹 [AWS Lambda Automation with Python](https://github.com/kalyaneswar/aws-lambda-automation)
