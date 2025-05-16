@@ -18,7 +18,7 @@
 ---
 
 ## 📌 Featured Projects:
-### 🔹 [Terraform AWS Infrastructure](https://github.com/kalyaneswar/terraform-aws-infra)
+### 🔹 [Terraform AWS Infrastructure](https://github.com/kalyaneswar/expense-infra-dev)
 Automated provisioning of AWS VPC, EC2, S3, and RDS using Terraform.
 
 ### 🔹 [CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/kalyaneswar/ci-cd-pipeline)
